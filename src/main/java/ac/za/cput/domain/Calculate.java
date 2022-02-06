@@ -1,3 +1,8 @@
+/*
+ *@author Kegomoditswe Leshope (219189048)
+ * 6 February 2022
+ * Revision Exercise - Software Development Infrastructure
+ */
 package ac.za.cput.domain;
 
 public class Calculate {
